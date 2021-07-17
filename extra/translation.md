@@ -1,0 +1,12 @@
+# Translation into French
+
+During my spare time, I help translate open-source applications into French.
+
+## Sailfish OS
+- [Sailfish Connect](https://openrepos.net/content/r1tschy/sailfish-connect), a KDE Connect client: completing [French](https://www.transifex.com/r1tschy/sailfish-connect) translation
+- [SailHub](https://openrepos.net/node/11318): creating [French](https://weblate.nubecula.org/engage/harbour-sailhub/) translation
+- [Storeman](https://openrepos.net/content/osetr/storeman): completing [French](https://www.transifex.com/mentaljam/harbour-storeman) translation
+- [Takeoff](): creating [French](https://weblate.nubecula.org/projects/harbour-takeoff/harbour-takeoff/) translation
+
+## Android
+- Package Manager on [F-Droid](https://f-droid.org/packages/com.smartpack.packagemanager/) ou [Google Play](https://play.google.com/store/apps/details?id=com.smartpack.packagemanager): completing [French](https://poeditor.com/projects/po_edit?id_language=50&id=412467) translation
