@@ -3,6 +3,7 @@
 During my spare time, I help translate open-source applications into French.
 
 ## Sailfish OS
+- [Pass Viewer](https://openrepos.net/content/p2501/pass-viewer): creating [French](https://bitbucket.org/christof_buergi/harbour-passviewer/src/master/translations/) translation
 - [Sailfish Connect](https://openrepos.net/content/r1tschy/sailfish-connect), a KDE Connect client: completing [French](https://www.transifex.com/r1tschy/sailfish-connect) translation
 - [SailHub](https://openrepos.net/node/11318): creating [French](https://weblate.nubecula.org/engage/harbour-sailhub/) translation
 - [Storeman](https://openrepos.net/content/osetr/storeman): completing [French](https://www.transifex.com/mentaljam/harbour-storeman) translation
