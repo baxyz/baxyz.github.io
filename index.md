@@ -9,4 +9,4 @@
 
 Personal work:
 - Sailfish OS mobile apps
-- [translating](/extra/translation) some apps into French
+- [Translation](/extra/translation) of some apps into French
