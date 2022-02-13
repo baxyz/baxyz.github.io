@@ -12,6 +12,7 @@ During my spare time, I help translate open-source applications into French.
 - [Kaktus](https://openrepos.net/content/mkiol/kaktus): completing the huge [French](https://www.transifex.com/mkiol/kaktus/) translation
 - [Determinant](https://openrepos.net/content/r1tschy/determinant), a Matrix chat client: creating [French](https://www.transifex.com/r1tschy/determinant/) translation
 - [Aenigma](https://openrepos.net/comment/39789), a Soduku game: creating [French](https://weblate.nubecula.org/engage/harbour-aenigma/) translation
+- [Vodman](https://openrepos.net/content/jgressmann/vodman): creating [French](https://www.transifex.com/jgressmann/harbour-vodman) translation
 
 ## Android
 
