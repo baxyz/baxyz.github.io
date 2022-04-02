@@ -21,4 +21,4 @@ During my spare time, I help translate open-source applications into French.
 
 ## Android
 
-- Package Manager on [F-Droid](https://f-droid.org/packages/com.smartpack.packagemanager/) ou [Google Play](https://play.google.com/store/apps/details?id=com.smartpack.packagemanager): completing [French](https://poeditor.com/projects/po_edit?id_language=50&id=412467) translation
+- Package Manager on [F-Droid](https://f-droid.org/packages/com.smartpack.packagemanager/) ou [Google Play](https://play.google.com/store/apps/details?id=com.smartpack.packagemanager): completing [French](https://poeditor.com/projects/po_edit?id_language=50&id=412467) translation, _since 2021_
