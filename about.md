@@ -6,7 +6,7 @@ images: ["/images/sample.jpg"]
 
 ## Who am I?
 
-Hey, I'm specialised in Human-Computer Interaction —HCI— (including dev, code, UI, UX, mockups, ...), with 14+ years of experience including full-stack development, in particular With interaction design (visualisation, data-story telling and UI). In other words, I help people dealing with complicated data, to make them understandable.
+Hey, I'm specialised in Human-Computer Interaction —HCI— (including dev, code, UI, UX, mockups, ...), with 16+ years of experience including full-stack development, in particular With interaction design (visualisation, data-story telling and UI). In other words, I help people dealing with complicated data, to make them understandable.
 
 ## Looking for
 
@@ -24,6 +24,7 @@ CXO · Product designer · Senior Lead front-dev · InfoViz & Data Storyteller �
 
 I already worked on that fields:
 
+- semiconductor industry
 - a data fabric for all businesses
 - educational technologies
 - marketplace of saas applications

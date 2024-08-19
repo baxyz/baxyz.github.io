@@ -4,9 +4,11 @@
 🖖 Hey, I'm Bérenger.
 
 - [Get to know me better](/about)
-- [Some of my work](/portfolio)
-- [Past publications](/publication)
+- Check out my experiences on [LinkedIn](https://www.linkedin.com/in/baxyz/)
+- Explore my publications on [ResearchGate](https://www.researchgate.net/profile/Berenger-Arnaud)
 
-Personal work:
-- Sailfish OS mobile apps
-- [Translation](/extra/translation) of some apps into French
+Personal projects:
+- Creating Sailfish OS mobile apps
+- Contributing to open-source applications and [tools](/extra/tools)
+- Translating apps into French
+
