@@ -4,5 +4,5 @@ Most of my previous open-source contributions are no longer publicly accessible,
 
 ## Gnome extensions
 
-* [Firefox Profiles](https://extensions.gnome.org/extension/7236/firefox-profiles/) makes it easy to launch Firefox with a specific profile from the indicator menu.
+* [Firefox Profiles](https://extensions.gnome.org/extension/7236/firefox-profiles/) ([code](https://github.com/baxyz/firefox-profiles)) makes it easy to launch Firefox with a specific profile from the indicator menu.
 

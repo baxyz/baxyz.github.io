@@ -1,42 +1,26 @@
 ---
-title: ABOUT
-description: Hey, I'm Bérenger ARNAUD
-images: ["/images/sample.jpg"]
+title: About Bérenger
+description: Welcome to my profile!
+
 ---
 
 ## Who am I?
 
-Hey, I'm specialised in Human-Computer Interaction —HCI— (including dev, code, UI, UX, mockups, ...), with 16+ years of experience including full-stack development, in particular With interaction design (visualisation, data-story telling and UI). In other words, I help people dealing with complicated data, to make them understandable.
+I am a highly skilled professional with over 16 years of experience in Human-Computer Interaction (HCI), specializing in development, code, UI/UX, mockups, and more. My expertise lies in full-stack development and interaction design, particularly in the areas of visualizing complex data and creating intuitive user experiences.
 
-## Looking for
+## Seeking Opportunities
 
-For now, I'm looking for a position as either **Product designer**, **Senior Front dev** or somewhat inbetween, preferably in those fields:
+Currently, I am seeking positions as a Product Architect/Designer, Senior Front-end Developer, or a role that combines both. I am particularly interested in opportunities related to innovation, ethics, social impact, cyber-defense tools, semiconductor industry tools, graph visualization, and time interaction challenges.
 
-- innovation, ethical or social
-- tooling for cyber-defense
-- tooling for semiconductor industry
-- graph, complex visualisation
-- time interaction issues
+## Experience
 
-## Experiences
-
-CXO · Product designer · Senior Lead front-dev · InfoViz & Data Storyteller · Interaction Designer (UI/UX) · Scrum Master
-
-I already worked on that fields:
-
-- semiconductor industry
-- a data fabric for all businesses
-- educational technologies
-- marketplace of saas applications
-- complex parallelisation problems in hardware (software tools)
-- integration of farming models (i.e. vine quality)
-- making database simple enough to interact (use)
+Throughout my career, I have held various roles including CXO, Frontend Architect, Product Designer, Senior Lead Front-end Developer, InfoViz & Data Storyteller, Interaction Designer (UI/UX), and Scrum Master. I have worked on diverse projects such as semiconductor industry solutions, data fabric development for businesses, educational technologies, saas application marketplaces, hardware parallelization problems, integration of farming models, and simplifying database interactions.
 
 Glossary:
 
-- _data fabric_ is a whole solution for data: harvesting, storage (data lake), analysis, enhancement, visualisation, reporting, monitoring, ...
-- _CXO_ stands for Chief eXperience Officer
+- _Data Fabric_: A comprehensive solution for data management, including harvesting, storage (data lake), analysis, enhancement, visualization, reporting, and monitoring.
+- _CXO_: Chief Experience Officer
 
-I particularly appreciate any interaction designer position, working on InfoViz and data storytelling, finding renderer optimisation, prototyping new kind of solution for unresolved problems, designing the software architecture to serve the UX, experimenting innovative technologies, etc.
+I am particularly passionate about positions that involve interaction design, InfoViz, and data storytelling. I enjoy optimizing renderers, prototyping innovative solutions, designing software architectures to enhance user experiences, and exploring cutting-edge technologies.
 
-I also have an interesting experience in the research field, compiling the state of the art, dealing with scientific publications but also being a postgraduate lecturer.
+Additionally, I have valuable experience in the research field, staying up-to-date with the latest advancements, and even lecturing as a postgraduate instructor.
