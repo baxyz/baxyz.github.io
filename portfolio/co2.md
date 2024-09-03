@@ -15,3 +15,7 @@ This project aims to demonstrate a prototype method for optimizing CO2 emissions
 ## Use Case
 
 Imagine a scenario where a logistics company wants to minimize its carbon footprint while maximizing efficiency in its freight transportation operations. The company can compare different routes, taking into account factors such as location constraints, geopolitical issues, and other relevant details. This prototype method allows the company to make informed decisions that result in reduced CO2 emissions, contributing to a more sustainable supply chain.
+
+## Metadata
+
+- **Date**: 2022
