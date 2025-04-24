@@ -2,7 +2,7 @@
 ---
 
 🖖 Hey, I'm Bérenger.
-
+- Explore my [portfolio](/portfolio)
 - [Get to know me better](/about)
 - Check out my experiences on [LinkedIn](https://www.linkedin.com/in/baxyz/)
 - Explore my publications on [ResearchGate](https://www.researchgate.net/profile/Berenger-Arnaud)
