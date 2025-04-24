@@ -2,8 +2,8 @@
 ---
 
 🖖 Hey, I'm Bérenger.
-- Explore my [portfolio](/portfolio)
 - [Get to know me better](/about)
+- Explore my [portfolio](/portfolio)
 - Check out my experiences on [LinkedIn](https://www.linkedin.com/in/baxyz/)
 - Explore my publications on [ResearchGate](https://www.researchgate.net/profile/Berenger-Arnaud)
 - View my projects on [GitHub](https://github.com/baxyz) and [GitLab](https://gitlab.com/baxyz)
