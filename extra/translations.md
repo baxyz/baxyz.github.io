@@ -1,4 +1,4 @@
-# Translation into French
+# Translations into French
 
 During my spare time, I help translate open-source applications into French.
 

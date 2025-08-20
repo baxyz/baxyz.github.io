@@ -1,5 +1,5 @@
 ---
-title: Portfolio: Recycling Center
+title: Portfolio Recycling Center
 ---
 
 # Recycling Center

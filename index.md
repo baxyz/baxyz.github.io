@@ -8,10 +8,12 @@
 - Explore my publications on [ResearchGate](https://www.researchgate.net/profile/Berenger-Arnaud)
 - View my projects on [GitHub](https://github.com/baxyz) and [GitLab](https://gitlab.com/baxyz)
 
-Personal projects:
-- Creating Sailfish OS mobile apps
-- Contributing to open-source applications and [tools](/extra/tools)
-- Translating apps into French
+Quick links:
+- **Gnome extension**: [Firefox Profiles](https://extensions.gnome.org/extension/7236/firefox-profiles/)
+- **Firefox extension**: [Close Bookmarked Tabs](https://addons.mozilla.org/en/firefox/addon/close-bookmarked-tabs/)
+- **TypeScript library**: Helpers4 (under refactoring)
+- **SaaS service**: Feature Today (active development)
+- **[See more projects](/projects)**
 
 ---
 

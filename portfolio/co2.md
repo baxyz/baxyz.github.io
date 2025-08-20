@@ -1,5 +1,5 @@
 ---
-title: Portfolio: CO2 Emissions Optimizer
+title: Portfolio CO2 Emissions Optimizer
 ---
 
 # CO2 Emissions Optimizer
