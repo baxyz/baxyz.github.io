@@ -4,3 +4,7 @@
 #title:
 #description:
 tags: ["Bérenger ARNAUD", "Portfolio", "Publications"]
+
+sidebar:
+  - getting-started
+

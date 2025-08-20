@@ -1,0 +1,18 @@
+{
+  "name": "Jekyll Dev Container",
+  "image": "mcr.microsoft.com/devcontainers/jekyll:latest",
+  "features": {},
+  "customizations": {
+    "vscode": {
+      "settings": {},
+      "extensions": [
+        "ms-azuretools.vscode-docker",
+        "yzhang.markdown-all-in-one"
+      ]
+    }
+  },
+  "forwardPorts": [
+    4000
+  ],
+  "postCreateCommand": "bundle install"
+}
