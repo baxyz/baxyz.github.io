@@ -6,6 +6,7 @@
 As a passionate contributor to the open-source ecosystem, I dedicate my spare time to developing tools, extensions, and mobile applications that solve real-world problems.
 
 - [TypeScript (JavaScript)](#typescript-javascript)
+- [Dev Container](#dev-container)
 - [Gnome](#gnome)
 - [Firefox](#firefox)
 - [Sailfish OS (Jolla)](#sailfish-os-jolla)
@@ -28,6 +29,21 @@ As a passionate contributor to the open-source ecosystem, I dedicate my spare ti
 - `@helpers4/url` - URL processing utilities
 
 [Source code](https://github.com/helpers4/helpers4) | [Documentation](https://helpers4.github.io/) (under reconstruction)
+
+## Dev Container
+
+### Shell History Per Project
+*Persistent shell history isolation for development containers*
+
+[Shell History Per Project](https://github.com/baxyz/devcontainer-features) is a DevContainer feature that provides per-project shell history persistence by mounting shell directories and creating symbolic links internally. This feature supports multiple shells (zsh, bash, and fish) and offers several key benefits:
+
+- **Per-project history isolation** - Keep project commands separate from personal commands
+- **Persistent across container rebuilds** - History survives container recreation
+- **Multiple shell support** - Works with zsh, bash, and fish shells
+- **Team collaboration friendly** - Consistent development experience across team members
+- **Clean separation** - Clear distinction between personal and project command history
+
+The feature is available via GitHub Container Registry and follows the DevContainer Features specification for easy integration into any development container setup.
 
 ## Gnome
 

@@ -9,10 +9,11 @@
 - View my projects on [GitHub](https://github.com/baxyz) and [GitLab](https://gitlab.com/baxyz)
 
 Quick links:
+- **TypeScript library**: Helpers4 (under refactoring)
+- **Dev Container feature**: Shell History Per Project
+- **SaaS service**: Feature Today (active development)
 - **Gnome extension**: [Firefox Profiles](https://extensions.gnome.org/extension/7236/firefox-profiles/)
 - **Firefox extension**: [Close Bookmarked Tabs](https://addons.mozilla.org/en/firefox/addon/close-bookmarked-tabs/)
-- **TypeScript library**: Helpers4 (under refactoring)
-- **SaaS service**: Feature Today (active development)
 - **[See more projects](/projects)**
 
 ---
