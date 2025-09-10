@@ -45,6 +45,19 @@ As a passionate contributor to the open-source ecosystem, I dedicate my spare ti
 
 The feature is available via GitHub Container Registry and follows the DevContainer Features specification for easy integration into any development container setup.
 
+### kubectl-telepresence
+*Kubernetes development with Telepresence integration*
+
+kubectl-telepresence is a DevContainer feature that simplifies Kubernetes development by providing both kubectl and Telepresence tools in your development container. This feature enables seamless local development against remote Kubernetes clusters by allowing developers to:
+
+- **Local-to-remote connectivity** - Run services locally while connecting to remote cluster dependencies
+- **Fast development cycles** - Test changes immediately without building and deploying containers
+- **Cluster access** - Full kubectl functionality for cluster management and debugging
+- **Traffic interception** - Route specific requests from the cluster to your local development environment
+- **Team collaboration** - Share and replicate development environments easily
+
+The feature automatically installs and configures both kubectl and Telepresence, making it easy to start developing cloud-native applications with a hybrid local/remote setup.
+
 ## Gnome
 
 ### Firefox Profiles

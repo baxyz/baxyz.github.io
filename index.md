@@ -10,7 +10,7 @@
 
 Quick links:
 - **TypeScript library**: Helpers4 (under refactoring)
-- **Dev Container feature**: Shell History Per Project
+- **Dev Container feature**: Shell History Per Project, Kubectl and Telepresence
 - **SaaS service**: Feature Today (active development)
 - **Gnome extension**: [Firefox Profiles](https://extensions.gnome.org/extension/7236/firefox-profiles/)
 - **Firefox extension**: [Close Bookmarked Tabs](https://addons.mozilla.org/en/firefox/addon/close-bookmarked-tabs/)
