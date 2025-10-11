@@ -1,6 +1,120 @@
-# theme: jekyll-theme-architect
+# The Site Configuration
 
-# Metadata
-#title:
-#description:
-tags: ["Bérenger ARNAUD", "Portfolio", "Publications"]
+# Import the theme
+theme: jekyll-theme-chirpy
+
+# Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
+# and doesn't have a custom domain.
+baseurl: ""
+
+# The language of the website → http://www.lingoes.net/en/translator/langcode.htm
+# If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
+# otherwise, the layout language will use the default value of 'en'.
+lang: en
+
+# Change to your timezone → https://kevinnovak.github.io/Time-Zone-Picker
+timezone: Europe/Paris
+
+# jekyll-seo-tag settings → https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
+# ↓ --------------------------
+
+title: Bérenger ARNAUD # the main title
+
+tagline: 16+ years in Human-Computer Interaction & Full-Stack Development # it will display as the sub-title
+
+description: >- # used by seo meta and the atom feed
+  Passionate contributor to the open-source ecosystem, developing tools, extensions, 
+  and mobile applications that solve real-world problems.
+
+# fill in the protocol & hostname for your site, e.g., https://username.github.io
+url: "https://baxyz.github.io"
+
+github:
+  username: baxyz # change to your github username
+
+social:
+  # Change to your full name.
+  # It will be displayed as the default author of the posts and the copyright owner in the Footer
+  name: Bérenger ARNAUD
+  email: berenger@arnaud.work # change to your email address
+  links:
+    # The first element serves as the copyright owner's link
+    - https://github.com/baxyz # change to your github homepage
+    - https://gitlab.com/baxyz
+    - https://www.linkedin.com/in/baxyz/
+    - https://www.researchgate.net/profile/Berenger-Arnaud
+
+# the avatar on sidebar, support local or CORS resources
+avatar: "/assets/img/avatar.jpg"
+
+# boolean type, the global switch for TOC in posts.
+toc: true
+
+comments:
+  active: false # The global switch for posts comments
+
+# Self-hosted static assets
+assets:
+  self_host:
+    enabled: false
+
+pwa:
+  enabled: true
+
+paginate: 10
+
+# Markdown
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+collections:
+  tabs:
+    output: true
+    sort_by: order
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      comments: true
+      toc: true
+      permalink: /posts/:title/
+  - scope:
+      path: "_tabs"
+    values:
+      layout: page
+      permalink: /:title/
+  - scope:
+      path: "assets/favicon"
+    values:
+      swcache: true
+  - scope:
+      path: "assets/js/dist"
+    values:
+      swcache: true
+
+sass:
+  style: compressed
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: [html, head, body]
+
+# Jekyll plugins
+plugins:
+  - jekyll-default-layout
+  - jekyll-readme-index
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-spaceship
+  - jekyll-theme-chirpy
