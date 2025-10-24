@@ -45,18 +45,27 @@ As a passionate contributor to the open-source ecosystem, I dedicate my spare ti
 
 The feature is available via GitHub Container Registry and follows the DevContainer Features specification for easy integration into any development container setup.
 
-### kubectl-telepresence
-*Kubernetes development with Telepresence integration*
+### git-absorb
+*Automatic absorption of staged changes into logical commits*
 
-kubectl-telepresence is a DevContainer feature that simplifies Kubernetes development by providing both kubectl and Telepresence tools in your development container. This feature enables seamless local development against remote Kubernetes clusters by allowing developers to:
+[git-absorb](https://github.com/baxyz/devcontainer-features) is a DevContainer feature that installs git-absorb, a powerful tool that automatically absorbs staged changes into their logical commits. It works like 'git commit --fixup' but completely automated, making commit history cleanup effortless.
 
-- **Local-to-remote connectivity** - Run services locally while connecting to remote cluster dependencies
-- **Fast development cycles** - Test changes immediately without building and deploying containers
-- **Cluster access** - Full kubectl functionality for cluster management and debugging
-- **Traffic interception** - Route specific requests from the cluster to your local development environment
-- **Team collaboration** - Share and replicate development environments easily
+- **Automatic fixup commits** - Staged changes are automatically absorbed into appropriate commits
+- **Multi-architecture support** - Works on both x86_64 and aarch64 architectures
+- **Git subcommand integration** - Seamlessly integrates as a git subcommand
+- **Lightweight installation** - Single binary with minimal overhead
+- **Perfect for clean history** - Ideal for maintaining clean, logical commit sequences
 
-The feature automatically installs and configures both kubectl and Telepresence, making it easy to start developing cloud-native applications with a hybrid local/remote setup.
+### biome
+*Fast formatter, linter, and more for web projects*
+
+[Biome](https://github.com/baxyz/devcontainer-features) is a DevContainer feature that installs Biome, a comprehensive toolchain for web development that combines formatting, linting, and more in a single fast tool. It's designed to replace multiple tools like Prettier and ESLint with one unified solution.
+
+- **Fast formatting and linting** - Supports JavaScript, TypeScript, JSX, JSON, CSS, and more
+- **Single tool replacement** - Replace Prettier and ESLint with one unified toolchain
+- **Multi-architecture support** - Compatible with x86_64 and aarch64 systems
+- **Configurable installation** - Choose specific versions as needed
+- **Lightweight binary** - Fast execution with minimal resource usage
 
 ## Gnome
 
