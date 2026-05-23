@@ -7,6 +7,7 @@ As a passionate contributor to the open-source ecosystem, I dedicate my spare ti
 
 - [TypeScript (JavaScript)](#typescript-javascript)
 - [Dev Container](#dev-container)
+- [GitHub Actions](#github-actions)
 - [Gnome](#gnome)
 - [Firefox](#firefox)
 - [Sailfish OS (Jolla)](#sailfish-os-jolla)
@@ -40,40 +41,38 @@ As a passionate contributor to the open-source ecosystem, I dedicate my spare ti
 
 ## Dev Container
 
-### Shell History Per Project
-*Persistent shell history isolation for development containers*
+[helpers4/devcontainer](https://helpers4.dev/devcontainer/) is a collection of plug-and-play DevContainer features for consistent, reproducible development environments. Features are published to `ghcr.io/helpers4/devcontainer` and follow the DevContainer Features specification.
 
-[Shell History Per Project](https://github.com/baxyz/devcontainer-features) is a DevContainer feature that provides per-project shell history persistence by mounting shell directories and creating symbolic links internally. This feature supports multiple shells (zsh, bash, and fish) and offers several key benefits:
+**9 features available:**
+- `essential-dev` - Git visualization, editor enhancements, Markdown
+- `typescript-dev` - TypeScript/JS dev with import management
+- `angular-dev` - Angular dev, port 4200 forwarding
+- `vite-plus` - Vite development setup
+- `package-auto-install` - Auto-detect and install packages
+- `git-absorb` - Automatic absorption of staged changes into logical commits
+- `shell-history-per-project` - Persistent shell history isolation per project
+- `dotfiles-sync` - Sync local Git/SSH/GPG/npm config
+- `peon-ping` - AI agent sound notifications
 
-- **Per-project history isolation** - Keep project commands separate from personal commands
-- **Persistent across container rebuilds** - History survives container recreation
-- **Multiple shell support** - Works with zsh, bash, and fish shells
-- **Team collaboration friendly** - Consistent development experience across team members
-- **Clean separation** - Clear distinction between personal and project command history
+[Source code](https://github.com/helpers4/devcontainer) | [Documentation](https://helpers4.dev/devcontainer/)
 
-The feature is available via GitHub Container Registry and follows the DevContainer Features specification for easy integration into any development container setup.
+## GitHub Actions
 
-### git-absorb
-*Automatic absorption of staged changes into logical commits*
+[helpers4/action](https://helpers4.dev/action/) is a collection of reusable GitHub Actions for consistent, automated workflows.
 
-[git-absorb](https://github.com/baxyz/devcontainer-features) is a DevContainer feature that installs git-absorb, a powerful tool that automatically absorbs staged changes into their logical commits. It works like 'git commit --fixup' but completely automated, making commit history cleanup effortless.
+### Conventional Commits
+*Validate commit messages against the Conventional Commits specification*
 
-- **Automatic fixup commits** - Staged changes are automatically absorbed into appropriate commits
-- **Multi-architecture support** - Works on both x86_64 and aarch64 architectures
-- **Git subcommand integration** - Seamlessly integrates as a git subcommand
-- **Lightweight installation** - Single binary with minimal overhead
-- **Perfect for clean history** - Ideal for maintaining clean, logical commit sequences
+The [`conventional-commits`](https://helpers4.dev/action/actions/conventional-commits/) action enforces the [Conventional Commits](https://www.conventionalcommits.org/) format on every PR. Configurable commit types and optional scope requirement.
 
-### biome
-*Fast formatter, linter, and more for web projects*
+```yaml
+- uses: helpers4/action/conventional-commits@v1
+  with:
+    types: 'feat|fix|docs|refactor|test|chore'
+    require-scope: false
+```
 
-[Biome](https://github.com/baxyz/devcontainer-features) is a DevContainer feature that installs Biome, a comprehensive toolchain for web development that combines formatting, linting, and more in a single fast tool. It's designed to replace multiple tools like Prettier and ESLint with one unified solution.
-
-- **Fast formatting and linting** - Supports JavaScript, TypeScript, JSX, JSON, CSS, and more
-- **Single tool replacement** - Replace Prettier and ESLint with one unified toolchain
-- **Multi-architecture support** - Compatible with x86_64 and aarch64 systems
-- **Configurable installation** - Choose specific versions as needed
-- **Lightweight binary** - Fast execution with minimal resource usage
+[Source code](https://github.com/helpers4/action) | [Documentation](https://helpers4.dev/action/) | [GitHub Marketplace](https://github.com/marketplace?type=actions&query=helpers4)
 
 ## Gnome
 
