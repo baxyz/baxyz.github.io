@@ -6,6 +6,8 @@ description: Welcome to my profile!
 
 ## Who am I?
 
+<img src="/assets/Peep 2024.png" alt="baxyz" height="120" style="float:right;margin-left:1.5rem;margin-bottom:0.5rem;">
+
 I am a highly skilled professional with over 16 years of experience in Human-Computer Interaction (HCI), specializing in development, code, UI/UX, mockups, and more. My expertise lies in full-stack development and interaction design, particularly in the areas of visualizing complex data and creating intuitive user experiences.
 
 ## Seeking Opportunities
