@@ -1,7 +1,7 @@
 ---
 ---
 
-🖖 Hey, I'm Bérenger.
+🖖 Hey, I'm Bérenger, alias <img src="/assets/Peep 2024.png" alt="" height="24" style="vertical-align:middle;display:inline-block;"> baxyz.
 - [Get to know me better](/about)
 - Explore my [portfolio](/portfolio)
 - Check out my experiences on [LinkedIn](https://www.linkedin.com/in/baxyz/)
