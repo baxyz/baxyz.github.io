@@ -18,17 +18,25 @@ As a passionate contributor to the open-source ecosystem, I dedicate my spare ti
 ## TypeScript (JavaScript)
 
 ### Helpers4
-*Modern utility library with TypeScript tree-shaking support for SaaS development*
+*TypeScript-first, enterprise-grade utility library — zero dependencies, 100% test coverage*
 
-[Helpers4](https://helpers4.github.io/) is a JavaScript/TypeScript utility library designed to eliminate the need to rewrite basic and functional development utilities for SaaS applications. The library is built with TypeScript tree-shaking support to ensure optimal bundle sizes in production applications.
+[helpers4](https://helpers4.dev/) is a JavaScript/TypeScript utility library designed to eliminate the need to rewrite the same helpers across every project. Built around a per-category package architecture for optimal tree-shaking, it covers the practical, real-world helpers that every professional JS/TS project ends up needing. v2 shipped in May 2026 after two years of development and 22 pre-releases.
 
-**Packages** (under refactoring):
-- `@helpers4/observable` - Reactive programming utilities
-- `@helpers4/promise` - Enhanced Promise handling
-- `@helpers4/string` - String manipulation helpers
-- `@helpers4/url` - URL processing utilities
+**12 packages available:**
+- `@helpers4/array` - chunk, compact, difference, intersection, union, deepEquals…
+- `@helpers4/string` - capitalize, slugify, camelCase, kebabCase, truncate…
+- `@helpers4/object` - deepMerge, pick, omit, compact, deepEquals
+- `@helpers4/promise` - delay, retry, debounce, throttle
+- `@helpers4/date` - daysDifference, isSameDay, toISO8601, Temporal support
+- `@helpers4/number` - clamp, isEven, isOdd, sum, inRange
+- `@helpers4/function` - debounce, throttle, memoize
+- `@helpers4/type` - isString, isNumber, isNull, isNullish, isArray
+- `@helpers4/url` - cleanPath, extractPureURI, onlyPath
+- `@helpers4/version` - Full SemVer 2.0.0 parsing and comparison
+- `@helpers4/observable` - RxJS Observable helpers and operators
+- `@helpers4/id` - UUID v7 generation
 
-[Source code](https://github.com/helpers4/helpers4) | [Documentation](https://helpers4.github.io/) (under reconstruction)
+[Source code](https://github.com/helpers4/typescript) | [Documentation](https://helpers4.dev/typescript) | [v2 release post](https://helpers4.dev/blog/2026-05-23-helpers4-typescript-v2/)
 
 ## Dev Container
 

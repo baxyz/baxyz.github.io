@@ -9,7 +9,7 @@
 - View my projects on [GitHub](https://github.com/baxyz) and [GitLab](https://gitlab.com/baxyz)
 
 Quick links:
-- **TypeScript library**: Helpers4 (under refactoring)
+- **TypeScript library**: [Helpers4 v2](https://helpers4.dev/) — modular utility library, zero dependencies, 100% test coverage
 - **Dev Container feature**: Shell History Per Project, Git Absorb and Biome
 - **SaaS service**: Feature Today (active development)
 - **Gnome extension**: [Firefox Profiles](https://extensions.gnome.org/extension/7236/firefox-profiles/)
