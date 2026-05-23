@@ -7,6 +7,8 @@
 - Check out my experiences on [LinkedIn](https://www.linkedin.com/in/baxyz/)
 - Explore my publications on [ResearchGate](https://www.researchgate.net/profile/Berenger-Arnaud)
 - View my projects on [GitHub](https://github.com/baxyz) and [GitLab](https://gitlab.com/baxyz)
+- Weekly [Tech Watch](https://baxyz.substack.com/) on Substack
+- Read the [Helpers4 Blog](https://helpers4.dev/blog/)
 
 Quick links:
 - **[Helpers4 TypeScript](https://helpers4.dev/typescript)**: modular utility library, zero dependencies, 100% test coverage
