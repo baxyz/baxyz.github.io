@@ -11,10 +11,12 @@
 - Read the [Helpers4 Blog](https://helpers4.dev/blog/)
 
 Quick links:
-- **[Helpers4 TypeScript](https://helpers4.dev/typescript)**: modular utility library, zero dependencies, 100% test coverage
-- **[Helpers4 DevContainer](https://helpers4.dev/devcontainer/)**: 9 features, plug-and-play dev environments
+- **[Helpers4 TypeScript](https://helpers4.dev/typescript)**: modular utility library, zero dependencies, 100% test coverage, 300+ helpers, 20+ packages
+- **[Helpers4 DevContainer](https://helpers4.dev/devcontainer/)**: 20+ features, plug-and-play dev environments
 - **[Helpers4 Action](https://helpers4.dev/action/)**: Conventional Commits validation and more
+- **[Tuxery](https://tuxery.store)**: a unified Linux app store — one card per app, whatever the source (Flatpak, Snap, AppImage, native)
 - **SaaS service**: Feature Today (active development)
+- **SaaS service**: brig·id (active development)
 - **Gnome extension**: [Firefox Profiles](https://extensions.gnome.org/extension/7236/firefox-profiles/)
 - **Firefox extension**: [Close Bookmarked Tabs](https://addons.mozilla.org/en/firefox/addon/close-bookmarked-tabs/)
 - **... [see more projects](/projects)**
