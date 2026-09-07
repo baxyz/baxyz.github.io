@@ -1,4 +1,6 @@
 {
     "easy-translator.covertedLanguage": "fr",
-    "easy-translator.defaultLanguage": "en"
+    "easy-translator.defaultLanguage": "en",
+    "conventionalCommits.gitmoji": true,
+    "conventionalCommits.scopes": ["content", "portfolio", "publication", "assets", "deps", "ci"]
 }
